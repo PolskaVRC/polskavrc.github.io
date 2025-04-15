@@ -1,0 +1,24 @@
+{
+  "global_roles": [
+    {
+      "display_name": "Norelock",
+      "role": "tech"
+    },
+    {
+      "display_name": "Szeweq",
+      "role": "management"
+    },
+    {
+      "display_name": "Voidbane",
+      "role": "management"
+    },
+    {
+      "display_name": "Lewandovsky",
+      "role": "tech"
+    },
+    {
+      "display_name": "Detuch",
+      "role": "models"
+    }
+  ]
+}
