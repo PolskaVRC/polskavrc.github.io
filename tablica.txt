@@ -1,3 +1,4 @@
-EVENT WIELKANOCNY 19.04.2025
-Zbierz 47 jaj! (3 są wadliwie ustawione) 
+TRWA EVENT WIELKANOCNY
+KONIEC: 22.04.2025
+Zbierz 50 jaj! 
 Wynik resetuje się, jeśli nie zbierzesz ich wszystkich.
